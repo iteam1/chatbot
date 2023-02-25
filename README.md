@@ -1,5 +1,7 @@
 # chatbot
 
+[Open Assistant Doc](https://projects.laion.ai/Open-Assistant/docs/guides/developers)
+
 [PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch)
 
 [ChatGPT](https://github.com/lencx/ChatGPT)
