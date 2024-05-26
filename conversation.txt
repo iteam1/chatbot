@@ -1,0 +1,17 @@
+You: Hello
+ChatGPT: Hello! How can I assist you today?
+You: Do you know my name
+ChatGPT: I'm sorry, but I don't have access to personal information about users. How can I assist you today?
+You: My name is Loc
+ChatGPT: Nice to meet you, Loc! How can I assist you today?
+You: Can you explain for me how solar system work?
+ChatGPT: Of course! The solar system is a collection of planets, moons, asteroids, comets, and other celestial bodies that orbit around the Sun. The Sun is a star at the center of the solar system, and all the other objects in the solar system orbit around it due to its gravitational pull.
+
+The eight planets in our solar system, in order of their distance from the Sun, are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Each planet has its own unique characteristics, such as size, composition, and atmosphere.
+
+The planets orbit the Sun in elliptical paths, with the inner planets orbiting faster than the outer planets. Moons orbit around some of the planets, and these moons can have their own moons as well.
+
+In addition to the planets and moons, the solar system also contains asteroids, comets, and dwarf planets like Pluto. These objects orbit the Sun in various paths and can sometimes come close to the planets.
+
+Overall, the solar system is a complex and fascinating system of celestial bodies that interact with each other under the influence of the Sun's gravity.
+

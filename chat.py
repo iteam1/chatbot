@@ -66,7 +66,7 @@ class ChatBot:
         # Init
         self.root = root
         self.root.title("ChatGPT")
-        self.font = ("Arial", 10)
+        self.font = ("Arial", 12)
 
         # Create a frame for the scrolled text area (chat display)
         self.chat_frame = tk.Frame(self.root)
